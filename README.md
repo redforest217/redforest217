@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi there, I'm David!
 
-<!--
-**rayforest-814/rayforest-814** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub! I'm a passionate **React Developer** with over **8 years of experience** building high-performance, user-friendly web applications. I specialize in creating dynamic front-end solutions using modern JavaScript/TypeScript, scalable architectures, and intuitive UI/UX principles.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Tech Stack & Skills
+
+- 🟦 **Languages**: JavaScript (ES6+), TypeScript, HTML5, CSS3, Sass
+- ⚛️ **Frontend**: React.js, Next.js, Redux, Zustand, Tailwind CSS, Styled Components
+- 🛠️ **Tooling**: Vite, Webpack, Babel, ESLint, Prettier
+- 🧪 **Testing**: Jest, React Testing Library, Cypress, Vitest
+- 🌐 **Other**: REST APIs, GraphQL, Axios, Firebase, Git/GitHub, CI/CD
+
+---
+
+## 🚀 What I'm Working On
+
+- 🧠 Exploring advanced design patterns in React
+- 🧪 Improving testing workflows with Vitest and Cypress
+- 🛠️ Building reusable component libraries
+- 🌍 Experimenting with server-side rendering and performance optimization in Next.js
+
+Thanks for stopping by! ⭐ Feel free to explore my repositories or connect if you'd like to collaborate.
+
