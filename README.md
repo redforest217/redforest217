@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm David!
+
 
 Welcome to my GitHub! I'm a passionate **React Developer** with over **8 years of experience** building high-performance, user-friendly web applications. I specialize in creating dynamic front-end solutions using modern JavaScript/TypeScript, scalable architectures, and intuitive UI/UX principles.
 
