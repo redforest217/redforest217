@@ -17,7 +17,7 @@
 ```yaml
 Name: David Gill
 Location: 🇺🇸 United States
-Role: Software Engineer at Meta
+Role: Fullstack Software Engineer
 Currently Learning:
   - 🔧 Scalable backend with Django
   - ☁️ AWS & cloud services
